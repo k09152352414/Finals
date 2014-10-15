@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# ChiGame
+#
+
+projectname: ChiGame
+vendorid: com.mycompany
+mainmodule: com.mycompany.chigame
